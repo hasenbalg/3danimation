@@ -1,0 +1,3 @@
+- neutral auf
+- aum fmit weiten mundwinkeln
+- auf mit fisch mundwinkeln
