@@ -21,6 +21,7 @@ Beine extrudiert.
 
 ## Stuhl
 Analog zum Tisch.
+
 ![](doku/000042.png)
 ![](doku/000043.png)
 ![](doku/000044.png)
@@ -33,6 +34,31 @@ Geschwungene Lehne extrudiert mit einachsigem Mirror.
 ![](doku/000048.png)
 ![](doku/000049.png)
 ![](doku/000050.png)
+
+## Sessel
+Sudiv auf Wuerfel und angewendet.
+
+![](doku/000051.png)
+![](doku/000052.png)
+![](doku/000053.png)
+
+Sessel draus gemacht und Solidify angewendet.
+
+![](doku/000054.png)
+![](doku/000055.png)
+![](doku/000056.png)
+![](doku/000057.png)
+![](doku/000058.png)
+
+Ring gezogen und Bein extrudiert.
+
+![](doku/000059.png)
+![](doku/000060.png)
+
+Fuesse extrudiert.
+
+![](doku/000061.png)
+![](doku/000062.png)
 
 ## IK Rigging
 
