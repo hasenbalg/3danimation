@@ -65,6 +65,47 @@ Huefte und Schultern ausbessern.
 
 ![](doku/000018.png)
 
+## IK Rigging
+Aus den Hacken die IK Controls ziehen.
+
+![](doku/Capture000063.png)
+
+Deform Porperty ausstellen.
+
+![](doku/Capture000064.png)
+
+Parent an den *root*-Bone.
+
+![](doku/Capture000065.png)
+
+*Root*-Bone einbauen.
+
+![](doku/Capture000066.png)
+
+IK ans Schienenbein.
+
+![](doku/Capture000067.png)
+
+Knie einbauen als Poletargets.
+
+![](doku/Capture000068.png)
+
+![](doku/Capture000069.png)
+
+![](doku/Capture000070.png)
+
+![](doku/Capture000071.png)
+
+Bei den Armen geht es analog zu den Beinen.
+
+![](doku/Capture000072.png)
+
+![](doku/Capture000073.png)
+
+![](doku/Capture000074.png)
+
+![](doku/Capture000075.png)
+
 ### Animation
 
 

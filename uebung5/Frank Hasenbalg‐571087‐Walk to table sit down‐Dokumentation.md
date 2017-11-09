@@ -60,9 +60,8 @@ Fuesse extrudiert.
 ![](doku/000061.png)
 ![](doku/000062.png)
 
-## IK Rigging
 
-
+## Animation
 
 
 ## Quellen
