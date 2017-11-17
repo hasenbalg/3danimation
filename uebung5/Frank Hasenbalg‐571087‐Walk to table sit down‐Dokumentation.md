@@ -62,6 +62,39 @@ Fuesse extrudiert.
 
 
 ## Animation
+Figur auf die Kante des Sessels gesetzt.
+
+![](doku/Capture000063.png)
+
+Figur nach vorn gebaeugt.
+
+![](doku/Capture000064.png)
+
+Figur richtet sich auf.
+
+![](doku/Capture000065.png)
+
+Figur geht in Lauf ueber.
+
+![](doku/Capture000066.png)
+
+![](doku/Capture000067.png)
+
+Hand an den Stuhl.
+
+![](doku/Capture000068.png)
+
+Andere Hand an den Tisch.
+
+![](doku/Capture000069.png)
+
+Tisch wird weg geschoben.
+
+![](doku/Capture000070.png)
+
+Tisch wieder rangezogen und Figur sitzt.
+
+![](doku/Capture000070.png)
 
 
 ## Quellen
